@@ -58,17 +58,36 @@ const supes= {
 
 
 //*****Array of objects******
-const arrayOfObjects = [
-    {
-        userId:12,
-        userEmail:"nnmn@gmam"
-    },
-    {
-        userId:13,
-        userEmail:"nndfn@gmam"
-    }
-]
-console.log(arrayOfObjects);
+// const arrayOfObjects = [
+//     {
+//         userId:12,
+//         userEmail:"nnmn@gmam"
+//     },
+//     {
+//         userId:13,
+//         userEmail:"nndfn@gmam"
+//     }
+// ]
+// console.log(arrayOfObjects);
+
+// console.log(supes)
+// console.log(Object.keys(supes));
+// console.log(Object.values(supes));
+
+// const course = {
+//     courseName : "Option trading",
+//     courseDuration : 4,
+//     coureseFees : 4999
+// }
+
+// console.log(course.coureseFees);
+// //*****Destructuring****
+// const {coureseFees:Paisa} = course;
+// console.log(Paisa);
+
+//**API's***/
+
+
 
 
 
